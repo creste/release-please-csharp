@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/creste/release-please-csharp/compare/Creste.MultiProject.MultiVersion.App-v1.1.0...Creste.MultiProject.MultiVersion.App-v1.1.1) (2021-08-11)
+
+
+### Bug Fixes
+
+* removed extra WriteLine() ([b5d8ea2](https://www.github.com/creste/release-please-csharp/commit/b5d8ea28eef9e7e9c6f158aa653a9227421300f8))
+
 ## [1.1.0](https://www.github.com/creste/release-please-csharp/compare/Creste.MultiProject.MultiVersion.App-v1.0.0...Creste.MultiProject.MultiVersion.App-v1.1.0) (2021-08-11)
 
 
