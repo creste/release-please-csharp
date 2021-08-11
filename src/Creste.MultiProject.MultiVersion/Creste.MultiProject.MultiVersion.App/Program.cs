@@ -8,6 +8,7 @@ namespace Creste.MultiProject.MultiVersion.App
         static void Main(string[] args)
         {
             Console.WriteLine(Messages.HelloWorld);
+            Console.WriteLine(Messages.HelloWorld);
         }
     }
 }
