@@ -6,7 +6,7 @@ namespace Creste.SingleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Single project");
+            Console.WriteLine("Single project!");
         }
     }
 }
